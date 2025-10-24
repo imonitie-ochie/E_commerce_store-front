@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+/* small helpers */
+.text-outline-red {
+-webkit-text-stroke: 1px red;
+color: white; /* fill white */
+}
